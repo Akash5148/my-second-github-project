@@ -1,0 +1,25 @@
+h2{
+    text-align: center; 
+    text-transform: capitalize; color: black; margin: 40px;
+}
+p{ text-align: justify;
+padding: 10px; color: black; background-color: rgb(247, 224, 144);
+ border: 5px solid rgb(236, 14, 236); border-radius: 20px; margin: 40px;
+
+}
+h4{
+    text-align: center; 
+    text-transform: capitalize; color: rgb(214, 10, 10);font-size: 20px; margin: 40px;
+}
+.imag{ display: flex;
+
+      margin: 40px; flex-direction: row;
+      align-items: center; justify-content: space-around;
+
+}
+.thankyou{ text-align: center; text-transform: uppercase; color: rgb(12, 11, 11);
+    
+     margin-top: 50px;border-radius: 30px;background-color: rgb(133, 233, 166);
+    border: 6px solid rgb(226, 59, 29); width: 40%;  margin: 0 auto;
+
+}
